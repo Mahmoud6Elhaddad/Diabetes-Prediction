@@ -72,12 +72,6 @@ Implemented and compared three models:
 
 ---
 
-✅ **Random Forest performed best overall** with the highest accuracy (75%) and more balanced results.  
-⚠️ However, all models showed **lower recall for the Diabetic class**, meaning they sometimes miss actual diabetic patients (false negatives).  
-This is a critical issue in healthcare where failing to detect diabetes can have serious consequences.  
-
----
-
 ## ⚙️ Technologies Used
 - Python 3.x
 - pandas, numpy
